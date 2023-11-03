@@ -1,3 +1,5 @@
+not working coz appwrite functions are trash
+
 # 🤖 Node.js Discord Command Bot Function
 
 Simple command using Discord Interactions.
