@@ -1,4 +1,4 @@
-not working coz appwrite functions are trash
+not working coz appwrite functions are trash 
 
 ## 🤖 Node.js Discord Command Bot Function
 
