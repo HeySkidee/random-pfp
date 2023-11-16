@@ -5,7 +5,7 @@ Not working coz appwrite functions are trash
 Simple command using Discord Interactions.
  
 ## 🧰 Usage
-
+ 
 ### POST /interactions
  
 Webhook to receive Discord command events. To receive events, you must register your application as a [Discord bot](https://discord.com/developers/applications).
