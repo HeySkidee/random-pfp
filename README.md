@@ -1,4 +1,6 @@
-Not working coz appwrite functions are trash 
+# [Get a discord bot dev badge](https://support-dev.discord.com/hc/en-us/articles/10113997751447?ref=badge)
+
+Bot not working coz appwrite functions are trash 
 
 ## 🤖 Node.js Discord Command Bot Function 
  
