@@ -25,7 +25,7 @@ Webhook to receive Discord command events. To receive events, you must register 
 Sample `200` Response:
 
 Returns a Discord message object.
-
+ 
 ```json
 {
   "type": 4,
