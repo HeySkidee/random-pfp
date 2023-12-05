@@ -1,5 +1,7 @@
 # [dev badge](https://support-dev.discord.com/hc/en-us/articles/10113997751447?ref=badge) 
 
+[learn to build using js](https://youtu.be/8V7iTweKKM8?si=a_k3_Kj6bAoCTj0Z)
+
 <details>
   <summary>apprwite bot summary</summary>
   
