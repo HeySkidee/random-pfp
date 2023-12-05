@@ -1,6 +1,9 @@
 # [Get a discord bot dev badge](https://support-dev.discord.com/hc/en-us/articles/10113997751447?ref=badge) 
 
-Bot not working coz appwrite functions are trash 
+<details>
+  <summary>apprwite bot summary</summary>
+  
+  Bot not working coz appwrite functions are trash 
 
 ## 🤖 Node.js Discord Command Bot Function   
   
@@ -11,7 +14,7 @@ Simple command using Discord Interactions.
 ### POST /interactions 
  
 Webhook to receive Discord command events. To receive events, you must register your application as a [Discord bot](https://discord.com/developers/applications).
- 
+  
 **Parameters** 
  
 | Name                  | Description                      | Location | Type   | Sample Value    |
@@ -84,3 +87,4 @@ Bot token of your application in Discord Developer Portal.
 | Required      | Yes                                                                                                                    |
 | Sample Value  | `NDI...LUfg`                                                                                                        |
 | Documentation | [Discord Docs](https://discord.com/developers/docs/tutorials/hosting-on-cloudflare-workers#creating-an-app-on-discord) |
+</details>
