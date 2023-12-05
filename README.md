@@ -1,4 +1,4 @@
-# [Get a discord bot dev badge](https://support-dev.discord.com/hc/en-us/articles/10113997751447?ref=badge) 
+# [dev badge](https://support-dev.discord.com/hc/en-us/articles/10113997751447?ref=badge) 
 
 <details>
   <summary>apprwite bot summary</summary>
