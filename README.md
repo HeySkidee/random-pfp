@@ -1,6 +1,8 @@
-# [dev badge](https://support-dev.discord.com/hc/en-us/articles/10113997751447?ref=badge) 
+[dev badge](https://support-dev.discord.com/hc/en-us/articles/10113997751447?ref=badge) 
 
 [learn to build using js](https://youtu.be/8V7iTweKKM8?si=a_k3_Kj6bAoCTj0Z)
+
+[invite link](https://discord.com/api/oauth2/authorize?client_id=1164500381456420915&permissions=8&scope=bot)
 
 <details>
   <summary>apprwite bot summary</summary>
