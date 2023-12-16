@@ -4,6 +4,8 @@
 
 [invite link](https://discord.com/api/oauth2/authorize?client_id=1164500381456420915&permissions=8&scope=bot)
 
+bruh its been almost 4 years and i haven't made any proper discord bot. now just make a cool ass bot plsss
+
 <details>
   <summary>apprwite bot summary</summary>
   
