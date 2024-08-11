@@ -1,6 +1,6 @@
 # Random Pfp
 
-npm package which gives random 500x500 profile picture links for user icons/pfps or other creative uses
+A npm package that gives random 500x500 profile picture image links for user icons, avatars, or other creative uses
 
 ### Installation:
 
