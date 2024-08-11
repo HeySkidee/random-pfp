@@ -1,18 +1,26 @@
 {
-  "name": "discord-bot",
+  "name": "random-pfp",
   "version": "1.0.0",
-  "description": "",
-  "main": "src/main.js",
-  "type": "module",
+  "description": "it gives you random 500x500 profile picture links for user icons or other creative uses",
+  "main": "index.js",
   "scripts": {
-    "format": "prettier --write .",
-    "setup": "node src/setup.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "discord-interactions": "^3.4.0",
-    "undici": "^5.23.0"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeySkidee/random-pfp.git"
   },
-  "devDependencies": {
-    "prettier": "^3.0.0"
-  }
+  "keywords": [
+    "profile-picture",
+    "random",
+    "pfp",
+    "random-pfps",
+    "pfps"
+  ],
+  "author": "Skidee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HeySkidee/random-pfp/issues"
+  },
+  "homepage": "https://github.com/HeySkidee/random-pfp#readme"
 }
