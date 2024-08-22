@@ -1,6 +1,6 @@
 {
   "name": "random-pfp",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "it gives you random 500x500 profile picture links for user icons or other creative uses",
   "main": "index.js",
   "scripts": {
