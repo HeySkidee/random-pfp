@@ -2,6 +2,9 @@
 
 A npm package that gives random 500x500 profile picture image links for user icons, avatars, or other creative uses
 
+[![NPM Downloads](https://badgen.net/npm/dm/random-pfp)](https://npmcharts.com/compare/random-pfp?minimal=true)
+[![NPM Version](https://badgen.net/npm/v/random-pfp)](https://npmjs.org/package/random-pfp)
+
 ### Installation:
 
 ```
